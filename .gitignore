@@ -1,0 +1,3 @@
+Model/
+*.safetensors
+__pycache__/

@@ -1,0 +1,28 @@
+Please check whether the transfer of $420330.71 from account C1868228472 might be fraudulent. It started with a balance of $420330.71 and ended with $0.0.
+
+For Transfer transactions:
+
+For Cash Out:
+
+Please check whether the cash_out of $50000.00 from account C123456789 might be fraudulent. It started with a balance of $50000.00 and ended with $0.0.
+
+For Cash In:
+
+Please check whether the cash_in of $10000.00 from account C987654321 might be fraudulent. It started with a balance of $0.00 and ended with $10000.00.
+
+For Payment:
+
+Please check whether the payment of $25000.00 from account C555555555 might be fraudulent. It started with a balance of $25000.00 and ended with $0.0.
+
+Please check whether the transfer of $420330.71 from account C1868228472 might be fraudulent. It started with a balance of $420330.71 and ended with $0.0.
+
+Please check whether the transfer of $75000.00 from account C111222333 might be fraudulent. It started with a balance of $75000.00 and ended with $0.0.
+
+
+Please check whether the payment of $15000.00 from account C777888999 might be fraudulent. It started with a balance of $15000.00 and ended with $0.0.
+
+Please check whether the transfer of $200000.00 from account C456456456 might be fraudulent. It started with a balance of $200000.00 and ended with $0.0.
+
+Please check whether the payment of $45000.00 from account C789789789 might be fraudulent. It started with a balance of $45000.00 and ended with $0.0.
+
+Please check whether the cash_out of $80000.00 from account C321321321 might be fraudulent. It started with a balance of $80000.00 and ended with $0.0.
